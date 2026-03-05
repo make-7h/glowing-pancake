@@ -1,4 +1,4 @@
-name: AnyDesk Official CLI Setup 
+#name: AnyDesk Official CLI Setup 
 
 on:
   workflow_dispatch:
